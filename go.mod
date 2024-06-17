@@ -1,7 +1,7 @@
 module github.com/chainguard-images/images
 
 go 1.21
-toolchain go1.22.2
+toolchain go1.22.4
 
 require (
 	chainguard.dev/apko v0.14.0
@@ -9,7 +9,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/hcl/v2 v2.20.1
 	github.com/rivo/tview v0.0.0-20231206124440-5f078138442e
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.9.0
 	github.com/zclconf/go-cty v1.14.4
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
